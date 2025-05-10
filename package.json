@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "learing node,express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-70da/https---github.com-mr-70da-NodeJsLearningProject.git"
+  },
+  "author": "mahmoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mr-70da/https---github.com-mr-70da-NodeJsLearningProject/issues"
+  },
+  "homepage": "https://github.com/mr-70da/https---github.com-mr-70da-NodeJsLearningProject#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  }
+}
